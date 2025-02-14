@@ -4,58 +4,54 @@ import "./Team.css";
 const Team = () => {
   const teamMembers = [
     {
-      image:
-        "https://noviner.io/assets/static/team-behrouz-zarei.CYWrY3vB.webp",
-      name: "بهروز زارعی",
+      image: "/src/assets/images/CTO.png",
+      name: " Name",
       role: "CTO",
     },
     {
-      image: "	https://noviner.io/assets/static/team-ramin.DCC2MYmG.webp",
-      name: "رامین براتی",
+      image: "/src/assets/images/cmo.jpg",
+      name: "Name",
       role: "CMO",
     },
     {
-      image:
-        "https://noviner.io/assets/static/team-kimia-sardari.Belaojh2.webp",
-      name: "کیمیا سرداری",
+      image: "/src/assets/images/project-manage.jpg",
+      name: "Name",
       role: "Project Manager",
     },
     {
-      image: "https://noviner.io/assets/static/team-fateme.XdDeORkm.webp",
-      name: "فاطمه جلیلیان",
+      image: "/src/assets/images/developer.jpg",
+      name: "Name",
       role: "Web Developer",
     },
     {
-      image:
-        "https://noviner.io/assets/static/team-maryam-roshan.GzaNHro4.webp",
-      name: "مریم روشن",
+      image: "/src/assets/images/developer.jpg",
+      name: "Name",
       role: "Web Developer",
     },
     {
-      image:
-        "https://noviner.io/assets/static/team-sahar-rezaeian.0kYw2xrT.webp",
-      name: "سحر رضاییان",
+      image: "/src/assets/images/developer.jpg",
+      name: "Name",
       role: "Web Developer",
     },
     {
-      image: "https://noviner.io/assets/static/team-rozbeh.BfhQuMDV.webp",
-      name: "روزبه زارعی",
-      role: "Mobilr Designer",
+      image: "src/assets/images/mobile-app-developer.jpg",
+      name: "Name",
+      role: "Mobile Designer",
     },
     {
-      image: "https://noviner.io/assets/static/team-ahoora.BYugN7xH.webp",
-      name: "اهورا فخاریان",
+      image: "src/assets/images/uiux.png",
+      name: "Name",
       role: "UI/UX Designer",
     },
     {
-      image: "	https://noviner.io/assets/static/team-fariba.VVMphCGo.webp",
-      name: "فریبا احسانی",
-      role: "Digital Marketing",
+      image: "src/assets/images/digital-marketing.png",
+      name: "Name",
+      role: "Digital Marketer",
     },
     {
-      image: "	https://noviner.io/assets/static/team-hadis.CcsTdyUN.webp",
-      name: "حدیث بازوند",
-      role: "Content Marker",
+      image: "src/assets/images/content-marketer.png",
+      name: "Name",
+      role: "Content Marketer",
     },
   ];
 
